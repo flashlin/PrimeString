@@ -1,0 +1,6 @@
+D:\Work\GitHub\PrimeString\PrimeString\bin\Debug\PrimeString.exe.config
+D:\Work\GitHub\PrimeString\PrimeString\bin\Debug\PrimeString.exe
+D:\Work\GitHub\PrimeString\PrimeString\bin\Debug\PrimeString.pdb
+D:\Work\GitHub\PrimeString\PrimeString\obj\Debug\PrimeString.csprojResolveAssemblyReference.cache
+D:\Work\GitHub\PrimeString\PrimeString\obj\Debug\PrimeString.exe
+D:\Work\GitHub\PrimeString\PrimeString\obj\Debug\PrimeString.pdb
